@@ -6,6 +6,9 @@ Q1: ![image](https://github.com/ahmedmirza1234/PfFall23/assets/142867716/67ce643
 Q2: ![image](https://github.com/ahmedmirza1234/PfFall23/assets/142867716/450c003c-1b2b-4abb-aa77-3420dd5f1ba8)
 
 q3: ![image](https://github.com/ahmedmirza1234/PfFall23/assets/142867716/fbc89db4-978e-42a6-a7e8-15660c1146ff)
+
+q4:![image](https://github.com/ahmedmirza1234/PfFall23/assets/142867716/40dafc31-7eeb-406c-a535-e5c6c55f8f28)
+
 q5: ![image](https://github.com/ahmedmirza1234/PfFall23/assets/142867716/296415d9-fe31-41c2-a350-422dcc3cdbbb)
 
 Q6: ![image](https://github.com/ahmedmirza1234/PfFall23/assets/142867716/39d47c7a-7a2b-4a7c-b9e9-9817c2571fad)
